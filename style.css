@@ -39,7 +39,6 @@
 }
 
 body {
-<<<<<<< HEAD
   color: #2f2f2f;
   background-color: #fdfdfd;
   font-family: 'Work Sans', sans-serif;
@@ -59,14 +58,6 @@ body p a {
 .expanding-grid {
   position: relative;
   width: 100%;
-=======
-  font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-  padding: 1em 10em;
-  margin: 0em auto;
-  font-size: 100%;
-  color: #2f2f2f;
-  background-color: #fdfdfd;
->>>>>>> origin/master
 }
 
 .links {
