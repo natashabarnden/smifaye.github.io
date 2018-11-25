@@ -42,7 +42,7 @@ body {
   color: #2f2f2f;
   background-color: #fdfdfd;
   font-family: 'Work Sans', sans-serif;
-  line-height: 1.2;
+  line-height: 1.4;
   max-width: 70em;
   margin: 0 auto;
   overflow-y: scroll;
@@ -125,6 +125,7 @@ ul {
 
 footer {
   text-align: left;
+  padding-top: 1em;
 }
 
 footer > a {
@@ -156,6 +157,9 @@ footer > p {
   .links > li:nth-of-type(2n+1) {
     clear: left;
   }
+  .work {
+    padding: 2em 20% 0 10%;
+  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -164,5 +168,8 @@ footer > p {
   }
   .links > li:nth-of-type(3n+1) {
     clear: left;
+  }
+  .work {
+    padding: 2em 30% 0 15%;
   }
 }
