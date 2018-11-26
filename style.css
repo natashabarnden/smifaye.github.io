@@ -158,7 +158,7 @@ footer > p {
     clear: left;
   }
   .work {
-    padding: 2em 20% 0 10%;
+    margin-right: 20%;
   }
 }
 
@@ -170,6 +170,6 @@ footer > p {
     clear: left;
   }
   .work {
-    padding: 2em 30% 0 15%;
+    margin-right: 30%;
   }
 }
