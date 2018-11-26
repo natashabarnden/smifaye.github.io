@@ -126,6 +126,10 @@ ul {
   overflow: hidden;
 }
 
+#article img {
+  width: 100%;
+}
+
 footer {
   text-align: left;
   padding-top: 1em;
