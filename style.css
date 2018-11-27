@@ -104,9 +104,9 @@ ul {
   position: relative;
   text-align: center;
   text-decoration: none;
-  -webkit-transition: all ease 0.4s;
-  -moz-transition: all ease 0.4s;
-  transition: all ease 0.4s;
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
 }
 
 .links > li:hover a {
