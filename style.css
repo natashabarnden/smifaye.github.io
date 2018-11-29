@@ -152,6 +152,10 @@ ul {
   width: 100%;
 }
 
+.quote {
+  font-style: italic;
+}
+
 footer {
   text-align: left;
   padding-top: 1em;
