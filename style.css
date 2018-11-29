@@ -132,6 +132,12 @@ ul {
   padding: 1em;
 }
 
+.mobile-text {
+  text-decoration: none;
+  color: #2f2f2f;
+  padding: 1em 0 0 0;
+}
+
 .links > li:hover a .middle {
   opacity: 1;
 }
@@ -168,9 +174,11 @@ footer > p {
   .links > li {
     width: 100%;
   }
-
   .links > li:nth-of-type(n+1) {
     clear: left;
+  }
+  .middle {
+    display: none;
   }
 }
 
@@ -178,13 +186,14 @@ footer > p {
   .links > li {
     width: 50%;
   }
-
   .links > li:nth-of-type(2n+1) {
     clear: left;
   }
-
   .work {
     margin-right: 20%;
+  }
+  .mobile-text {
+    display: none;
   }
 }
 
@@ -192,12 +201,13 @@ footer > p {
   .links > li {
     width: 33.3333333333%;
   }
-
   .links > li:nth-of-type(3n+1) {
     clear: left;
   }
-
   .work {
     margin-right: 30%;
+  }
+  .mobile-text {
+    display: none;
   }
 }
