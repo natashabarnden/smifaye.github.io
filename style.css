@@ -215,3 +215,8 @@ footer > p {
     display: none;
   }
 }
+figcaption {
+  padding-top: 0.4em;
+  font-size: 0.8em;
+  font-style: italic;
+}
