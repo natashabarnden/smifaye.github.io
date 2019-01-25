@@ -45,7 +45,7 @@ body {
   color: #2f2f2f;
   background-color: #fdfdfd;
   font-family: 'Work Sans', sans-serif;
-  max-width: 70em;
+/*  max-width: 70em;*/
   font-size: 100%;
   font-size-adjust: 0.5;
   margin: 0 auto;
@@ -193,7 +193,7 @@ footer > p {
   .links > li:nth-of-type(2n+1) {
     clear: left;
   }
-  .work {
+  p {
     margin-right: 20%;
   }
   .mobile-text {
@@ -208,7 +208,7 @@ footer > p {
   .links > li:nth-of-type(3n+1) {
     clear: left;
   }
-  .work {
+  p {
     margin-right: 30%;
   }
   .mobile-text {
@@ -219,4 +219,8 @@ figcaption {
   padding-top: 0.4em;
   font-size: 0.8em;
   font-style: italic;
+}
+
+hr {
+  color: #2f2f2f;
 }
