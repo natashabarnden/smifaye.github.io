@@ -18,7 +18,7 @@
   display: block;
   color: #2f2f2f;
   text-align: center;
-  margin: 0 0 0 1em;
+  margin: 0.6em 0 0.6em 1em;
   text-decoration: none;
 }
 
@@ -71,7 +71,7 @@ p {
 body p a {
   text-decoration: none;
   font-weight: 600;
-  color: #CC5A71;
+  color: #ED6D3C;
 }
 
 .expanding-grid {
@@ -230,7 +230,7 @@ footer {
 
 footer > a {
   text-decoration: none;
-  background-color: #CC5A71;
+  background-color: #F5CACC;
   color: #fdfdfd;
   border-radius: 100%;
   padding: 0.3em 0.3em;
@@ -310,3 +310,4 @@ footer > p {
 .next {
   float: right;
 }
+
